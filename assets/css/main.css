@@ -72,6 +72,14 @@ input, select, textarea {
 	appearance: none;
 }
 
+/* custom */
+
+.profile_photo {
+    border-radius: 10rem;
+
+}
+
+
 /* Basic */
 
 	@-ms-viewport {
@@ -3549,7 +3557,7 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper > header {
-		padding: 11em 0 2.25em 0 ;
+		padding: 11em 0 2.25em 0;
 	}
 
 		#wrapper > header .inner {
